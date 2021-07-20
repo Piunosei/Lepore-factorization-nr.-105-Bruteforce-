@@ -2,11 +2,11 @@
 
 /*
 
-cardill is free software
-cardill is Alberico Lepore creation
+Lepore factorization nr. 105 (Bruteforce) is free software
+Lepore factorization nr. 105 (Bruteforce) is Alberico Lepore creation
 this file is free software
 
-The cardill is free software; you can redistribute it and/or modify
+The Lepore factorization nr. 105 (Bruteforce) is free software; you can redistribute it and/or modify
 it under the terms of either:
 
     the GNU Lesser General Public License as published by the Free
